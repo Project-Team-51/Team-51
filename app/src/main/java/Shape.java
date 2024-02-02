@@ -2,7 +2,7 @@ public class Shape {
     int x;
     int y;
   
-    String color = "orange"; 
+    String color = "red"; 
 
 
 }
