@@ -1,7 +1,7 @@
 public class Star extends Shape{
     int numberOfPoints;
 
-    public Star(int numberOfPoints, String colour){
+    public Star(int numberOfPoints){
         this.numberOfPoints = numberOfPoints;
     }
 }
