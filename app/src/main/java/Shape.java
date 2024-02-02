@@ -3,5 +3,6 @@ public class Shape {
     int y;
 
     String color = "black";
+    String color = "blue";
 
 }
